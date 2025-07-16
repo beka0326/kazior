@@ -1,1 +1,1 @@
-# kazior
+# kaznior
